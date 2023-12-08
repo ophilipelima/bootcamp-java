@@ -1,7 +1,7 @@
 package desafiosDeCodigo;
 import java.util.Scanner;
 
-public class grandeDeposito {
+public class GrandeDeposito {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
