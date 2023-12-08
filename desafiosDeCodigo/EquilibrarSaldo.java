@@ -1,7 +1,7 @@
 package desafiosDeCodigo;
 import java.util.Scanner;
 
-public class equilibrarSaldo {
+public class EquilibrarSaldo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
